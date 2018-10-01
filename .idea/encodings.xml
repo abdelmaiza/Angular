@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/APM-Start/src/app/app.component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/APM-Start/src/app/app.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/APM-Start/src/app/app.module.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/APM-Start/src/app/products/product-list-component.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/APM-Start/src/app/products/product-list-component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/APM-Start/src/app/products/product-list-component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/APM-Start/src/app/products/product.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/APM-Start/src/app/shared/convert-to-space.pipe.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/APM-Start/src/app/shared/star.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/APM-Start/src/main.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/APM-Start/src/styles.css" charset="UTF-8" />
+  </component>
+</project>
