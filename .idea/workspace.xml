@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbbbbd19-8467-4f9b-965a-0a750f94e1fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/APM-Final/src/Integrations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APM-Final/src/assets/images/Integrations.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/e2e/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/e2e/protractor.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/e2e/src/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/e2e/src/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/e2e/src/app.po.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/api/products/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/api/products/products.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/home/welcome.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/home/welcome.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/home/welcome.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/home/welcome.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/products/product-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/products/product-detail.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/products/product-detail.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/products/product-detail.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/products/product-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/products/product-detail.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/products/product-detail.guard.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/products/product-detail.guard.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/products/product-detail.guard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/products/product-detail.guard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/products/product-list.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/products/product-list.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/products/product-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/products/product-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/products/product-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/products/product-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/products/product.module.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/products/product.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/products/product.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/products/product.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/products/product.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/products/product.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/products/product.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/shared/convert-to-spaces.pipe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/shared/convert-to-spaces.pipe.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/shared/shared.module.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/shared/shared.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/shared/shared.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/shared/star.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/shared/star.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/shared/star.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/shared/star.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/app/shared/star.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/app/shared/star.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/assets/products/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/assets/products/products.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/src/test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Final/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/APM-Final/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/api/products/products.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/home/welcome.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/home/welcome.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product-list-component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product-list-component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product-list-component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product-service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/products/product.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/shared/convert-to-space.pipe.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/shared/star.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/shared/star.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/app/shared/star.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/assets/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APM-Start/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\AMAIZA\.m2\settings-ma.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cBMfDWqkz92349GVeRVUWjdcnJ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/APM-Final/src/assets/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="ts.external.directory.path" value="C:\workspace\amaiza\Angular\APM-Start\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\amaiza\Angular\APM-Final\src\assets\images" />
+      <recent name="C:\workspace\amaiza\Angular\APM-Final\src" />
+      <recent name="C:\workspace\amaiza\Angular\APM-Start\src\app\products" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\b010nsm\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbbbbd19-8467-4f9b-965a-0a750f94e1fe" name="Default Changelist" comment="" />
+      <created>1589997633728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589997633728</updated>
+      <workItem from="1589997636884" duration="2935000" />
+      <workItem from="1590001339670" duration="17526000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1589998052630">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589998052630" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1589998060960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589998060960" />
+    <state x="348" y="73" width="585" height="534" key="find.popup" timestamp="1590021208761">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="73" width="585" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1590021208761" />
+  </component>
+</project>
