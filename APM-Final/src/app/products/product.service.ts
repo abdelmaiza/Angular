@@ -6,6 +6,7 @@ import { catchError, tap, map } from 'rxjs/operators';
 import { IProduct } from './product';
 
 @Injectable({
+  // instance of product service is available to be injected any where in the application
   providedIn: 'root'
 })
 export class ProductService {
@@ -19,6 +20,7 @@ export class ProductService {
   getProducts(): Observable<IProduct[]> {
     return this.http.get<IProduct[]>(this.productUrl)
       .pipe(
+        // @ts-ignore
         tap(data => console.log('All: ' + JSON.stringify(data))),
         catchError(this.handleError)
       );
@@ -27,6 +29,7 @@ export class ProductService {
   getProduct(id: number): Observable<IProduct | undefined> {
     return this.getProducts()
       .pipe(
+        // @ts-ignore
         map((products: IProduct[]) => products.find(p => p.productId === id))
       );
   }
@@ -35,6 +38,7 @@ export class ProductService {
     // in a real world app, we may send the server to some remote logging infrastructure
     // instead of just logging it to the console
     let errorMessage = '';
+    // @ts-ignore
     if (err.error instanceof ErrorEvent) {
       // A client-side or network error occurred. Handle it accordingly.
       errorMessage = `An error occurred: ${err.error.message}`;
@@ -43,6 +47,7 @@ export class ProductService {
       // The response body may contain clues as to what went wrong,
       errorMessage = `Server returned code: ${err.status}, error message is: ${err.message}`;
     }
+    // @ts-ignore
     console.error(errorMessage);
     return throwError(errorMessage);
   }

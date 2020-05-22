@@ -20,6 +20,7 @@
         <thead>
           <tr>
             <th>
+              <!-- (click)='toggleImage()' => event binding -->
               <button class='btn btn-primary'
                       (click)='toggleImage()'>
                 {{showImage ? 'Hide' : 'Show'}} Image
@@ -50,6 +51,8 @@
             <td>{{ product.releaseDate }}</td>
             <td>{{ product.price | currency:'EUR':'symbol':'1.2-2' }}</td>
             <td>
+              <!-- [rating]='product.starRating' => property binding -->
+              <!-- (ratingClicked)='onRatingClicked($event) => listening to ratingClicked.emit from star.component -->
               <pm-star [rating]='product.starRating'
                        (ratingClicked)='onRatingClicked($event)'>
               </pm-star>

@@ -6,8 +6,11 @@ import { Component, OnChanges, Input, EventEmitter, Output } from '@angular/core
   styleUrls: ['./star.component.css']
 })
 export class StarComponent implements OnChanges {
+  //Passing data to nested component (from product-list.component to star.component) using @Input
   @Input() rating = 0;
   starWidth = 0;
+
+  //Raising an Event from nested Component (from star.component to product-list.component) using @Output
   @Output() ratingClicked: EventEmitter<string> =
     new EventEmitter<string>();
 

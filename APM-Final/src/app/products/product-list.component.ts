@@ -14,6 +14,9 @@ export class ProductListComponent implements OnInit {
   showImage = false;
   errorMessage = '';
 
+  filteredProducts: IProduct[] = [];
+  products: IProduct[] = [];
+
   _listFilter = '';
   get listFilter(): string {
     return this._listFilter;
@@ -23,9 +26,6 @@ export class ProductListComponent implements OnInit {
     this.filteredProducts = this.listFilter ? this.performFilter(this.listFilter) : this.products;
   }
 
-  filteredProducts: IProduct[] = [];
-  products: IProduct[] = [];
-
   constructor(private productService: ProductService) { }
 
   onRatingClicked(message: string): void {
@@ -33,8 +33,11 @@ export class ProductListComponent implements OnInit {
   }
 
   performFilter(filterBy: string): IProduct[] {
+    // @ts-ignore
     filterBy = filterBy.toLocaleLowerCase();
+    // @ts-ignore
     return this.products.filter((product: IProduct) =>
+      // @ts-ignore
       product.productName.toLocaleLowerCase().indexOf(filterBy) !== -1);
   }
 
